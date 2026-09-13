@@ -1,10 +1,10 @@
-Good morning everyone,
-Today I inform you all about my work .
-Basically at morning 6:45Am I do coding on Mimo app time is not fixed .
-I am in range of top 3 . I work hard and I work on pyroid 3.
-I am experienced of work on ms powerpoint and ms Excel and ms word. 
-I am also told everyone that you must try atleast 1-2 times for learning and learn by hard .
-in hindi language ("safalta raaton Raat nahin milati Hai uske liye mehnat karna padta hai").
-("HAAR KABHI MAT MANO MERE DOST KYUKI HAR HAR K BAAD JEET TUMARI HAI").
+### Hi, I am Kartik 👋
+- 🌱 From NTPC Unchahar, 16.7 y/o
+- 💻 Learning to Code on Mimo App (Top 3 in Silver League)
+- 🐍 Working on Pyroid 3 | Python Enthusiast
+- 📊 Skills: MS PowerPoint, Excel, Word
+
+> "Safalta raaton raat nahi milti, uske liye mehnat karna padta hai"
+> "HAAR KABHI MAT MANO, KYUKI HAR HAAR KE BAAD JEET TUMHARI HAI"
 
 THANKS YOU 🙏
